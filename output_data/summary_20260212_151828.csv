@@ -1,0 +1,2 @@
+pdf,text_file,excel_file,tables_found,text_length
+sample_invoice_test.pdf,output_data\sample_invoice_test_text_20260212_151828.txt,output_data\sample_invoice_test_tables_20260212_151828.xlsx,1,408

@@ -1,0 +1,14 @@
+pdf_data_extractor/
+│
+├── pdfs/              # Put your PDF files here
+├── output/            # Excel files saved here
+├── processed/         # Move processed PDFs here
+├── config/
+│   └── settings.py    # Column mappings, regex patterns
+├── extractors/
+│   ├── pdf_parser.py  # Core extraction logic
+│   └── table_extractor.py
+├── utils/
+│   └── file_handler.py
+├── main.py
+└── requirements.txt

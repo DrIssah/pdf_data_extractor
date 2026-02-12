@@ -1,0 +1,17 @@
+
+--- PAGE 1 ---
+INVOICE
+ABC Technologies Ltd.
+123 Business Avenue
+Nairobi, Kenya
+Phone: +254 700 123456
+Email: billing@abctech.com
+Invoice #: INV-2026-001
+Date: 12/02/2026
+PO #: PO-77889
+Customer: MTel Telecommunications
+Item Description Quantity Unit Price ($) Total ($)
+1 Data Analysis Service 2 500.00 1000.00
+2 Web Scraping Automation 1 750.00 750.00
+3 System Maintenance 3 200.00 600.00
+Total: $2350.00
